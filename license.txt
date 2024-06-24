@@ -1,0 +1,8 @@
+Model Information:
+* title:	Архив Win RAR
+* source:	https://sketchfab.com/3d-models/win-rar-b0b7c6b8f68f4971a189ed2c5f28c709
+* author:	razumovaleksej486 (https://sketchfab.com/razumovaleksej486)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
